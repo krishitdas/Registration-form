@@ -2,6 +2,9 @@
 
 This repository contains the code for a property registration form web page. The registration form is designed to allow users to sign up for an account to buy or sell property on the platform.
 
+## Dive into the project
+[<img src="./price-tag.png" width="60px" alt="pricing-page-icon">](https://krishitdas.github.io/Pricing-Page/)<span><em>(Tap on 🔗 icon to view the project)</em></span>
+
 ## Features
 
 - **User-friendly Interface:** The registration form provides a clear and intuitive interface for users to fill in their details.
